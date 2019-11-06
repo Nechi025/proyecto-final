@@ -1,0 +1,35 @@
+.cuerpo{
+    background-color: black;
+}
+.contenedor{
+    display: grid;
+    grid-template-columns: repeat(3 ,1fr);
+    grid-column-gap: 10px;
+    background-color: gray;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 1000px;
+    margin: -1% auto auto auto ;
+}
+.titulo h1{
+    margin-top: 400px;
+    margin-left: 30px;
+    color: white; 
+}
+.titulo{
+    width: 100%;
+    grid-column: 1/4;
+    height: 486px;
+    background-image: url("../img/portada\ dota.jpg");
+    background-position: center;
+    background-size: cover;
+}
+.inicio{
+    grid-column: 1/4;
+    grid-template-columns: repeat(4,1fr);
+    background-color: white;
+    padding: 0 10% 0 10%;
+}
+.criticas{
+    padding: 0 0px 0 50px;
+}
