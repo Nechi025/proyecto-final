@@ -1,4 +1,4 @@
-    .cuerpo{
+.cuerpo{
     background-color: black;
 }
 .todo{
@@ -39,10 +39,10 @@
     background-size: cover;
     background-position: center;
     width: 1000px;
-    height: 500px;
+    height: 450px;
 }
 .llol{
-    margin-top: 370px;
+    margin-top: 280px;
     margin-left: 150px;
 }
 .ldota{
@@ -50,22 +50,17 @@
     margin-top: -40px;
 }
 .lol{
-    margin-top: -360px;
+    margin-top: -250px;
     margin-left: 100px;
     width: 300px;
     height: 300px;
-    background-image: url(../img/lol.jpg);
-    background-size: cover;
-    background-position: center;
 }
 .dota{
-    background-image: url(../img/dota.jpg);
+    
     margin-top: -300px;
     margin-left: 570px;
     width: 300px;
     height: 300px;
-    background-size: cover;
-    background-position: center;
 }
 .shooter{
     background-image: url(../img/fondo\ juegos.jpg);
@@ -73,10 +68,10 @@
     background-position: center;
     overflow: hidden;
     width: 1000px;
-    height: 500px;
+    height: 450px;
 }
 .lcsgo{
-    margin-top: 370px;
+    margin-top: 280px;
     margin-left: 220px;
 }
 .lfortnite{
@@ -84,22 +79,16 @@
     margin-top: -40px;
 }
 .csgo{
-    margin-top: -360px;
+    margin-top: -250px;
     margin-left: 100px;
     width: 300px;
     height: 300px;
-    background-image: url(../img/csgo.jpg);
-    background-size: cover;
-    background-position: center;
 }
 .fortnite{
-    background-image: url(../img/fortnite.jpg);
     margin-top: -300px;
     margin-left: 570px;
     width: 300px;
     height: 300px;
-    background-size: cover;
-    background-position: center;
 }
 .rpg{
     background-image: url(../img/fondo\ juegos.jpg);
@@ -107,10 +96,10 @@
     background-position: center;
     overflow: hidden;
     width: 1000px;
-    height: 500px;
+    height: 450px;
 }
 .lkingdom{
-    margin-top: 370px;
+    margin-top: 280px;
     margin-left: 160px;
 }
 .lfantasy{
@@ -118,20 +107,14 @@
     margin-top: -40px;
 }
 .kingdom{
-    margin-top: -360px;
+    margin-top: -250px;
     margin-left: 100px;
     width: 300px;
     height: 300px;
-    background-image: url(../img/kingdom\ hearts.jpg);
-    background-size: cover;
-    background-position: center;
 }
 .fantasy{
-    background-image: url(../img/final\ fantasy.jpg);
     margin-top: -300px;
     margin-left: 570px;
     width: 300px;
     height: 300px;
-    background-size: cover;
-    background-position: center;
 }
